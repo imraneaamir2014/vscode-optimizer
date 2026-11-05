@@ -31,6 +31,6 @@ A conservative, Windows-first utility for inspecting Visual Studio Code processe
 ## Install
 
 ```bash
-git clone https://github.com/imrane-ai-dev/vscode-optimizer.git
+git clone https://github.com/imraneaamir2014/vscode-optimizer.git
 cd vscode-optimizer
 python -m pip install -r requirements.txt
