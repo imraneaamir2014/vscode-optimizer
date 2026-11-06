@@ -17,10 +17,10 @@ A conservative, Windows-first utility for inspecting Visual Studio Code processe
 ## Screenshots
 
 ### Before
-![Before](images/cache-before.png)
+![Before](VSCode-Optimizer/images/cache-before.png)
 
 ### After
-![After](images/cache-after.png)
+![After](VSCode-Optimizer/images/cache-after.png)
 
 ## Requirements
 
